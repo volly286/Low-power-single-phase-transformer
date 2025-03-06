@@ -43,55 +43,111 @@ Rezistoarele au următoarele valori de rezistență:
 
 ## Rezumat
 
-Scopul principal al proiectului este conceperea și construirea unui transformator monofazat de mică putere. Acesta are două funcții cheie:
-- Ajustarea nivelului de tensiune electrică
-- Izolația galvanică între circuitul primar (de intrare) și cel secundar (de ieșire), asigurând protecția utilizatorilor împotriva șocurilor electrice.
-
-Transformatorul prezintă avantaje semnificative datorită designului său simplu, care oferă o fiabilitate ridicată și emisii electromagnetice minime. Componentele principale includ:
-- Carcasa electroizolantă
-- Bobinajul
-- Miezul feromagnetic
-- Sistemul de strângere a miezului magnetic
-
----
+Scopul principal al proiectului este conceperea și construirea unui transformator monofazat de
+mică putere, un dispozitiv crucial în gestionarea și manipularea energiei electrice. Transformatorul are
+două funcții cheie: prima este ajustarea nivelului de tensiune electrică - fie pentru a crește tensiunea
+pentru transmiterea eficientă a energiei electrice pe distanțe lungi, fie pentru a reduce tensiunea pentru
+utilizări specifice, cum ar fi alimentarea unui telefon. A doua funcție este izolația galvanică între circuitul
+primar (de intrare) și cel secundar (de ieșire), asigurând protecția utilizatorilor împotriva șocurilor
+electrice.
+Transformatorul prezintă avantaje semnificative datorită designului său simplu, care oferă o
+fiabilitate ridicată și emisii electromagnetice minime, un aspect esențial în comparație cu alte surse de
+alimentare care pot genera interferențe electromagnetică deranjante.
+Din punct de vedere constructiv, transformatorul de mică putere este alcătuit din următoarele
+componente principale:
+• Carcasa electroizolantă: Aceasta oferă protecție împotriva contactului direct cu componentele
+electrice și ajută la prevenirea accidentelor.
+• Bobinajul: Acesta constă în înfășurări de fire conductoare, fiind divizat în bobina primară și cea
+secundară, fiecare având rolul său specific în procesul de transformare a energiei electrice.
+• Miezul feromagnetic: Este elementul central al transformatorului, prin care fluxul magnetic
+generat de bobina primară este transferat eficient către bobina secundară.
+• Sistemul de strângere a miezului magnetic și de fixare a transformatorului: Aceste mecanisme
+asigură stabilitatea structurală a transformatorului și mențin componentele în poziția corectă.
+Funcționarea transformatorului se bazează pe principiul inducției electromagnetice. Curentul
+electric care circulă prin bobina primară generează un câmp magnetic. Datorită configurației
+transformatorului, acest câmp magnetic străbate miezul feromagnetic și ajunge la bobina secundară.
+În funcție de numărul de spire și de intensitatea câmpului magnetic, se induce o tensiune electrică în
+bobina secundară. Această tensiune poate fi mai mare sau mai mică decât tensiunea inițială, în funcție
+de raportul dintre numărul de spire din bobinele primară și secundară.
+Astfel, transformatorul reprezintă un instrument esențial în sistemele moderne de distribuție și
+utilizare a energiei electrice, fiind un exemplu clar de inginerie eficientă și sigură.
 
 ## Abstract
 
-The primary objective of the project is the design and construction of a low-power single-phase transformer, a crucial device in the management and handling of electrical energy. The transformer serves two main functions:
-- Adjusting electrical voltage levels
-- Providing galvanic isolation between the primary and secondary circuits, ensuring user protection against electric shocks.
-
-The transformer offers significant advantages due to its simple design, which provides high reliability and minimal electromagnetic emissions. Key components include:
-- Electro-insulating Casing
-- Winding
-- Ferromagnetic Core
-- System for Tightening the Magnetic Core and Fixing the Transformer
-
----
+The primary objective of the project is the design and construction of a low-power single-phase
+transformer, a crucial device in the management and handling of electrical energy. The transformer has
+two key functions: the first is the adjustment of the electrical voltage level - either to increase the voltage
+for efficient transmission of electrical energy over long distances, or to reduce the voltage for specific
+uses, such as powering a laptop. The second function is the galvanic isolation between the primary
+(input) and secondary (output) circuits, ensuring user protection against electric shocks.
+The transformer offers significant advantages due to its simple design, which provides high
+reliability and minimal electromagnetic emissions, an essential aspect compared to other power sources
+that can generate annoying electromagnetic interference.
+From a construction perspective, the low-power transformer consists of the following main
+components:
+• Electro-insulating Casing: This provides protection against direct contact with electrical
+components and helps prevent accidents.
+• Winding: This consists of windings of conductive wires, divided into the primary and secondary
+coils, each having its specific role in the process of transforming electrical energy.
+• Ferromagnetic Core: This is the central element of the transformer, through which the magnetic
+flux generated by the primary coil is efficiently transferred to the secondary coil.
+• System for Tightening the Magnetic Core and Fixing the Transformer: These mechanisms
+ensure the structural stability of the transformer and keep the components in the correct
+position.
+The operation of the transformer is based on the principle of electromagnetic induction. The
+electric current flowing through the primary coil generates a magnetic field. Due to the configuration of
+the transformer, this magnetic field passes through the ferromagnetic core and reaches the secondary
+coil. Depending on the number of turns and the intensity of the magnetic field, an electrical voltage is
+induced in the secondary coil. This voltage can be higher or lower than the initial voltage, depending on
+the ratio between the number of turns in the primary and secondary coils.
+Thus, the transformer represents an essential tool in modern systems for the distribution and
+use of electrical energy, being a clear example of efficient and safe engineering.
 
 ## Aspecte Generale
 
-### Utilizare Transformator
-- **Putere**: Transformatoare de mare intensitate, autotransformatoare, pentru măsură, pentru sudare.
-- **Număr de faze**: Monofazate, Polifazate.
-- **Răcire**: Cu aer, cu ulei (naturală sau forțată).
-
-### Componente Principale
-- Carcasă electroizolantă
-- Bobinaj
-- Miez feromagnetic din tole de tablă silicioasă
-- Sistem de strângere a miezului magnetic și de fixare.
-
-### Eficiența Transformatorului
-Eficiența depinde de calitatea și geometria miezului magnetic, forma și dimensiunea înfășurărilor, diametrul conductoarelor.
-
----
+Utilizare Transformator:
+• Din punct de vedere al utilizării: Putere, construcție specială (mare intensitate, mai multe înfășurări,
+schimbarea numărului de faze, autotransformatoare, pentru măsură, pentru sudare).
+• Număr de faze: Monofazate, Polifazate.
+• Răcire: Cu aer, cu ulei (naturală sau forțată).
+Componente Principale:
+Carcasă electroizolantă, bobinaj, miez feromagnetic din tole de tablă silicioasă, sistem de strângere a
+miezului magnetic și de fixare.
+Eficiența Transformatorului:
+Depinde de calitatea și geometria miezului magnetic, forma și dimensiunea înfășurărilor, diametrul
+conductoarelor.
+Tehnologie și Proiectare:
+Generalități:
+Structura constructivă, tehnologia de fabricație, metodologia de proiectare pentru
+transformatoarele monofazice de mică putere (<500W) utilizate în aparatura electronică.
+Structura și Funcția: Transformatorul monofazic de mică putere este folosit în multe scheme de
+alimentare electronică, modificând tensiunea și curentul și oferind izolare galvanică.
+Procesul Tehnologic de Realizare:
+• Obținerea tolelor, tratament termic, realizarea carcasei.
+• Bobinarea înfășurărilor, introducerea tolelor în carcasă.
+• Strângerea miezului magnetic, impregnarea transformatorului.
+• Controlul tehnic de calitate.
+Proiectare:
+Evaluarea puterii totale absorbită, calculul puterii în primar.
+Dimensionarea secțiunii în fier a miezului magnetic.
+Calculul numărului de spire pe volt, determinarea numărului de spire din înfășurările primare și secundare.
+Evaluarea curentului din primar, dimensionarea diametrelor conductoarelor de bobinaj.
+Calculul ariilor ocupate de înfășurări, dimensionarea tolei și grosimii pachetului de tole.
+Exemplu Practic: Proiectarea unui transformator cu specificații detaliate, inclusiv alegerea tolelor, evaluarea
+puterii și dimensionarea componentelor.
+Aceasta este o sinteză concentrată a informațiilor detaliate despre tehnologia și proiectarea transformatorului de
+rețea monofazic de mică putere.
 
 ## Calculul și dimensionarea ansamblului
 
 - Detalii despre dimensionarea transformatorului și calcularea componentelor vor fi prezentate într-un capitol ulterior.
 
----
+![2.](Imagini/p2.jpg?raw=true "Title")
+
+![3.](Imagini/p3.jpg?raw=true "Title")
+
+![4.](Imagini/p4.jpg?raw=true "Title")
+
 
 ## Alegerea rezistoarelor
 
