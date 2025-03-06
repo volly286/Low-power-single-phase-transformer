@@ -6,8 +6,6 @@
 **Grupa 424D**  
 București 2023  
 
-![Descriere imagine](https://raw.githubusercontent.com/volly286/Images/main/p8.jpg)
-
 
 ## Cuprins
 
