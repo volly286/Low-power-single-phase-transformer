@@ -115,7 +115,7 @@ Components were selected from the [www.ro.farnell.com](http://www.ro.farnell.com
 
 Power calculation and assembly dimensioning will be presented further in the technical documentation of the project.
 
-![5.](img/p5.jpg?raw=true "Title")
+![5.](img/p.jpg?raw=true "Title")
 
 ![6.](img/p6.jpg?raw=true "Title")
 
