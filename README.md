@@ -160,19 +160,41 @@ rețea monofazic de mică putere.
 
 Am ales componentele de pe site-ul [www.ro.farnell.com](http://www.ro.farnell.com) ținând cont de disponibilitate, raportul calitate-preț, puterea nominală și toleranță.
 
----
 
 ## Calculul puterii transformatorului și dimensionarea acestuia
 
 Calculul puterii și dimensionarea ansamblului vor fi prezentate în continuare. Detaliile complete sunt incluse în documentația tehnică a proiectului.
 
----
+![5.](Imagini/p5.jpg?raw=true "Title")
+
+![6.](Imagini/p6.jpg?raw=true "Title")
+
+![7.](Imagini/p7.jpg?raw=true "Title")
+
+![8.](Imagini/p8.jpg?raw=true "Title")
 
 ## Concluzii
 
-Lucrarea subliniază importanța alegerii condițiilor adecvate de circuit și a respectării normelor de siguranță. De asemenea, recomandă studenților să se familiarizeze cu procesul de construcție a unui circuit electric. În concluzie, lucrarea pune accent pe personalizarea transformatoarelor și importanța respectării standardelor tehnice.
-
----
+Concluzia acestei lucrări evidențiază mai multe aspecte importante în domeniul ingineriei
+electrice și, în special, în procesul de construcție și proiectare a circuitelor electrice. În primul rând,
+lucrarea subliniază importanța alegerii condițiilor adecvate de circuit și a respectării normelor de
+siguranță. Aceasta este o remarcă crucială, deoarece condițiile inadecvate sau nerespectarea
+normelor de siguranță pot duce la defecțiuni ale circuitului sau chiar la accidente.
+În al doilea rând, lucrarea recomandă studenților să se familiarizeze cu procesul de
+construcție a unui circuit electric. Acest lucru este valoros pentru învățarea practică și dobândirea
+unei înțelegeri profunde a principiilor de funcționare ale circuitelor electrice.
+Mai departe, autorul subliniază diversitatea transformatoarelor disponibile pe piață și remarcă
+faptul că acestea nu întotdeauna îndeplinesc cerințele specifice ale utilizatorilor. Acest aspect scoate
+în evidență importanța adaptabilității și personalizării în ingineria electrică. Construirea unui
+transformator personalizat permite nu doar satisfacerea cerințelor specifice, dar și o înțelegere
+aprofundată a componentelor și a modului în care acestea funcționează împreună.
+În final, lucrarea accentuează necesitatea respectării standardelor tehnice în construcția
+transformatoarelor, precum grosimea sârmelor de bobinaj și decizia de a include sau nu izolație între
+straturi. Aceste detalii tehnice sunt esențiale pentru performanța și siguranța transformatoarelor.
+În concluzie, lucrarea oferă o perspectivă valoroasă asupra importanței detaliilor tehnice,
+siguranței și personalizării în proiectarea și construcția circuitelor electrice și a componentelor
+acestora, cum ar fi transformatoarele. Aceasta încurajează studenții să se angajeze activ în învățarea
+practică și să acorde o atenție deosebită standardelor tehnice și de siguranță.
 
 ## Bibliografie
 
