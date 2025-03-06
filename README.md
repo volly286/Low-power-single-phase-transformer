@@ -38,7 +38,7 @@ Rezistoarele au următoarele valori de rezistență:
 - **R5** = 8.2 [Ω]
 - **R6** = 22 [Ω]
 
-![1.](Imagini/p1.jpg?raw=true "Title")
+![1.](img/p1.jpg?raw=true "Title")
 
 ## Rezumat
 
@@ -141,11 +141,11 @@ rețea monofazic de mică putere.
 
 - Detalii despre dimensionarea transformatorului și calcularea componentelor vor fi prezentate într-un capitol ulterior.
 
-![2.](Imagini/p2.jpg?raw=true "Title")
+![2.](img/p2.jpg?raw=true "Title")
 
-![3.](Imagini/p3.jpg?raw=true "Title")
+![3.](img/p3.jpg?raw=true "Title")
 
-![4.](Imagini/p4.jpg?raw=true "Title")
+![4.](img/p4.jpg?raw=true "Title")
 
 
 ## Alegerea rezistoarelor
@@ -164,13 +164,13 @@ Am ales componentele de pe site-ul [www.ro.farnell.com](http://www.ro.farnell.co
 
 Calculul puterii și dimensionarea ansamblului vor fi prezentate în continuare. Detaliile complete sunt incluse în documentația tehnică a proiectului.
 
-![5.](Imagini/p5.jpg?raw=true "Title")
+![5.](img/p5.jpg?raw=true "Title")
 
-![6.](Imagini/p6.jpg?raw=true "Title")
+![6.](img/p6.jpg?raw=true "Title")
 
-![7.](Imagini/p7.jpg?raw=true "Title")
+![7.](img/p7.jpg?raw=true "Title")
 
-![8.](Imagini/p8.jpg?raw=true "Title")
+![8.](img/p8.jpg?raw=true "Title")
 
 ## Concluzii
 
