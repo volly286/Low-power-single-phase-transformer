@@ -1,4 +1,4 @@
-# POLITEHNICA UNIVERSITY OF BUCHARES
+# POLITEHNICA UNIVERSITY OF BUCHAREST
 ## Faculty of Electronics, Telecommunications, and Information Technology
 ### Project: Passive Components and Circuits
 **Single-Phase Low-Power Transformer**  
@@ -37,7 +37,7 @@ Resistors have the following resistance values:
 - **R5** = 8.2 [Ω]
 - **R6** = 22 [Ω]
 
-![1.](img/p1.jpg?raw=true "Title")
+![1.](Img/p1.jpg?raw=true "Title")
 
 ## Summary
 
@@ -94,11 +94,11 @@ Thus, the transformer is an essential tool in modern electrical energy distribut
 
 Details on transformer dimensioning and component calculations will be presented in a subsequent chapter.
 
-![2.](img/p2.jpg?raw=true "Title")
+![2.](Img/p2.jpg?raw=true "Title")
 
-![3.](img/p3.jpg?raw=true "Title")
+![3.](Img/p3.jpg?raw=true "Title")
 
-![4.](img/p4.jpg?raw=true "Title")
+![4.](Img/p4.jpg?raw=true "Title")
 
 ## Resistor Selection
 
@@ -115,13 +115,13 @@ Components were selected from the [www.ro.farnell.com](http://www.ro.farnell.com
 
 Power calculation and assembly dimensioning will be presented further in the technical documentation of the project.
 
-![5.](img/p5.jpg?raw=true "Title")
+![5.](Img/p5.jpg?raw=true "Title")
 
-![6.](img/p6.jpg?raw=true "Title")
+![6.](Img/p6.jpg?raw=true "Title")
 
-![7.](img/p7.jpg?raw=true "Title")
+![7.](Img/p7.jpg?raw=true "Title")
 
-![8.](img/p8.jpg?raw=true "Title")
+![8.](Img/p8.jpg?raw=true "Title")
 
 ## Conclusions
 
