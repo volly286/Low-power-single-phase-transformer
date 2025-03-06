@@ -1,4 +1,4 @@
-# POLITEHNICA UNIVERSITY OF BUCHAREST
+# POLITEHNICA UNIVERSITY OF BUCHARES
 ## Faculty of Electronics, Telecommunications, and Information Technology
 ### Project: Passive Components and Circuits
 **Single-Phase Low-Power Transformer**  
